@@ -5,7 +5,7 @@ using System.Linq;
 
 public class ParentScript : MonoBehaviour
 {
-    public float pos = 1f;
+    public float pos = 3f;
 
     private GameObject[] children;
 
